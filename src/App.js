@@ -6,9 +6,10 @@ import AboutUsUsingVirtuoso from './components/AboutUsUsingVirtuoso';
 function App() {
   return (
     <>
+      <h1>Website deployed to aws</h1>
       <About/>
       <AboutUsUsingVirtuoso/>
-      <h1>Website deployed to aws</h1>
+      
     </>
   );
 }

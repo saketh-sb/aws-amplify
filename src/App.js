@@ -8,6 +8,7 @@ function App() {
     <>
       <About/>
       <AboutUsUsingVirtuoso/>
+      <h1>Website deployed to aws</h1>
     </>
   );
 }
